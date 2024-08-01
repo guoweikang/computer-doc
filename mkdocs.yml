@@ -14,8 +14,6 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
-  - pymdownx.arithmatex:
-      generic: true
 
 nav:
   - 前言: 
@@ -23,9 +21,4 @@ nav:
     - '基础常识': 'basic_concepts.md'
   - 逻辑门&布尔代数: 
     - 'logic': 'logic.md'
-
- # - 并发:
-
-
- # - RUST for Linux:
 
