@@ -1,4 +1,4 @@
-site_name: Rust For Linux
+site_name: Computer
 theme:
   name: readthedocs
   highlightjs: true
@@ -26,5 +26,8 @@ nav:
     - '介绍': 'index.md'
     - '基础常识': 'basic_concepts.md'
   - 逻辑门&布尔代数: 
-    - 'logic': 'logic.md'
+    - 'logic': 'logic.md'  
+  - 汇编语言: 'assmblely.md'
+  - 内存: 'memory.md'
+  
 

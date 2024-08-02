@@ -43,6 +43,6 @@
 
 ### 参考资料
 
-[计算机科学](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) 新手入门友好
-[计算机底层原理](https://www.youtube.com/playlist?list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF) 中级入门友好
-[汇编/CPU设计](https://cs224.cs.vassar.edu/) 专业提升
+ - [计算机科学](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) 新手入门友好
+ - [计算机底层原理](https://www.youtube.com/playlist?list=PLxfrSxK7P38X7XfG4X8Y9cdOURvC7ObMF) 中级入门友好
+ - [汇编/CPU设计](https://cs224.cs.vassar.edu/) 专业提升
